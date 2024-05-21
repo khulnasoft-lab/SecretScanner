@@ -16,7 +16,7 @@ COPY . .
 RUN make clean
 RUN make
 
-FROM alpine:3.18
+FROM alpine:3.19
 MAINTAINER KhulnaSoft
 LABEL khulnasoft.role=system
 
