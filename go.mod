@@ -8,7 +8,7 @@ require (
 	github.com/fatih/color v1.16.0
 	github.com/flier/gohs v1.2.2
 	github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20240428155115-19b68d48bafa
-	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240428004714-8cdaf7b37dfc
+	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024
 	github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240428004714-8cdaf7b37dfc
 	github.com/khulnasoft-lab/vessel v0.1.1
 	github.com/olekukonko/tablewriter v0.0.5

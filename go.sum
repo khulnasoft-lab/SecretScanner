@@ -104,6 +104,8 @@ github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20240428155115-19b68d48bafa 
 github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20240428155115-19b68d48bafa/go.mod h1:bN0PWAt3+OOuJ+1SgDYZwOBACfUX7BiQHdASR52VdYU=
 github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240428004714-8cdaf7b37dfc h1:CPnRjP3wb4FaS4Md+M2ZhUyDePdsFwoFfgEJWW7o9WI=
 github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240428004714-8cdaf7b37dfc/go.mod h1:L2E+zDeBZofLoEsyBxfUEs5X1kfiRaZ7f2TiC4/7gnA=
+github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024 h1:rxaPbljlCmCyJctAgDnkp/3NSs2ewq8gTLeqOzHUEP0=
+github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024/go.mod h1:L2E+zDeBZofLoEsyBxfUEs5X1kfiRaZ7f2TiC4/7gnA=
 github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240428004714-8cdaf7b37dfc h1:yEU1AZ4VJDDNals5EyOfytAqoZO9gz4dzJK+hOBJlo0=
 github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240428004714-8cdaf7b37dfc/go.mod h1:OgA1MaX1GLzzHfL8BHD7wBIs8LmWKfeXOsrUyVQS6eg=
 github.com/khulnasoft-lab/vessel v0.1.1 h1:9yIU6ifIzqagxcEEk7IpgxDsfrBthzLg1Gy1vET2bcE=
