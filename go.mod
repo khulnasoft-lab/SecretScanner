@@ -7,13 +7,13 @@ toolchain go1.22.2
 require (
 	github.com/fatih/color v1.16.0
 	github.com/flier/gohs v1.2.2
-	github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20240428155115-19b68d48bafa
+	github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20250211040622-e7e03aab7da6
 	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024
 	github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240428004714-8cdaf7b37dfc
 	github.com/khulnasoft-lab/vessel v0.1.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/sirupsen/logrus v1.9.3
-	google.golang.org/grpc v1.63.2
+	google.golang.org/grpc v1.64.1
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -65,11 +65,11 @@ require (
 	go.opentelemetry.io/otel v1.26.0 // indirect
 	go.opentelemetry.io/otel/metric v1.26.0 // indirect
 	go.opentelemetry.io/otel/trace v1.26.0 // indirect
-	golang.org/x/net v0.24.0 // indirect
+	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/text v0.16.0 // indirect
 	google.golang.org/genproto v0.0.0-20240429193739-8cf5692501f6 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
-	google.golang.org/protobuf v1.34.0 // indirect
+	google.golang.org/protobuf v1.36.5 // indirect
 )
