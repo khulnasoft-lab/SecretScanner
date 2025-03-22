@@ -9,7 +9,7 @@ require (
 	github.com/flier/gohs v1.2.2
 	github.com/khulnasoft-lab/agent-plugins-grpc v0.0.0-20240428155115-19b68d48bafa
 	github.com/khulnasoft-lab/golang_sdk/client v0.0.0-20240520213426-d989e5f20024
-	github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20240428004714-8cdaf7b37dfc
+	github.com/khulnasoft-lab/golang_sdk/utils v0.0.0-20250125193251-84ea98b34f61
 	github.com/khulnasoft-lab/vessel v0.1.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/sirupsen/logrus v1.9.3
@@ -44,7 +44,7 @@ require (
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.5 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/klauspost/compress v1.17.8 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
