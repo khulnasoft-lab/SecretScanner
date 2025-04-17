@@ -2,7 +2,7 @@ ARG VECTORSCAN_IMG_TAG=latest
 ARG VECTORSCAN_IMAGE_REPOSITORY=khulnasoft
 FROM $VECTORSCAN_IMAGE_REPOSITORY/khulnasoft_vectorscan_build:$VECTORSCAN_IMG_TAG AS vectorscan
 
-FROM golang:1.20-alpine3.18 AS builder
+FROM golang:1.22-alpine3.18 AS builder
 MAINTAINER KhulnaSoft
 
 RUN apk update  \
